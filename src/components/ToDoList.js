@@ -4,7 +4,9 @@ import '../css/global.css';
 const ToDoList = () => {
     return (
         <div className="ToDoList">
-            <h1>To Do List</h1>
+            <div className="Header2">
+                <h1>To Do List</h1>
+            </div>
         </div>
     );
 }
